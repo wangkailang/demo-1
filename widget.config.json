@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkfu2SjFNkCX",
+  "spaceId": "spcBVKADAfTo9",
+  "entry": "./src/index.jsx",
+  "name": {
+    "zh-CN": "widgetDemo",
+    "en-US": "widgetDemo"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "widgetDemo 的描述",
+    "en-US": "widgetDemo description"
+  },
+  "sandbox": true
+}
